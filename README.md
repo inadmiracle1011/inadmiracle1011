@@ -1,4 +1,4 @@
-<h1>T3 stack, MERN, Django, Ruby on Rails</h1>
+<h1>Blockchain and Full Stack development</h1>
 <h2>About me</h2>
 <ul style="list-style-type: none">
 <li>👋 Hi, I’m @inadmiracle1011 with over 5 years of hands-on experience in building web and mobile apps with different tech stacks.</li>
